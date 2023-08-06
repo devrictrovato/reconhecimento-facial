@@ -43,4 +43,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [Licença](https://github.com/devrictrovato/Reconhecimento-Facial/blob/main/LICENSE) para obter mais detalhes.
-```
